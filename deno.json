@@ -3,7 +3,7 @@
 		"dev": "deno run --watch main.ts",
 		"test": "deno test --unstable-kv -A --trace-ops --watch"
 	},
-	"name": "@ts-rex/lucia-denokv",
+	"name": "@bronti/lucia-denokv",
 	"version": "1.0.2",
 	"exports": "./mod.ts",
 	"importMap": "importmap.json",
